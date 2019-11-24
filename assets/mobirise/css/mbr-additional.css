@@ -1,17 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
-
 body {
   font-family: Rubik;
 }
 .display-1 {
   font-family: 'Inkfree';
-  font-size: 6rem;
+  font-size: 12rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 9.6rem;
+  font-size: 19.2rem;
 }
 .display-2 {
   font-family: 'Inkfree';
@@ -30,7 +29,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inkfree';
   font-size: 4rem;
   font-display: swap;
 }
@@ -52,9 +51,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 4.8rem;
-    font-size: calc( 2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 9.6rem;
+    font-size: calc( 4.85rem + (12 - 4.85) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (4.85rem + (12 - 4.85) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 0.8rem;
@@ -1090,7 +1089,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/to-2000x958.jpg");
+  background-image: url("../../../assets/images/pb240071-2000x856.jpg");
 }
 .cid-qTkA127IK8 H1 {
   color: #ffffff;
