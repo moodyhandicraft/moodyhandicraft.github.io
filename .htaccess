@@ -1,0 +1,2 @@
+RewriteCond %{HTTP_HOST} ^moodyhandicraft.github.io [NC]
+RewriteRule ^(.*)$ http://www.moodyhandicraft.pl/$1 [L,R=301]
