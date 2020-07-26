@@ -1087,12 +1087,12 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Niesamowite",
+                "tags": "Wrażliwe",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/t8-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/t8-1080x1080-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t2-1080x1349.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t2-1080x1349-800x999.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1100,12 +1100,12 @@
                 "active": false
               },
               {
-                "tags": "Wrażliwe",
+                "tags": "Niesamowite",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/t2-1080x1349.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/t2-1080x1349-800x999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t1-1080x1349.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t1-1080x1349-800x999.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1126,25 +1126,12 @@
                 "active": false
               },
               {
-                "tags": "Animowane",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/t5-1536x2048.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/t5-1536x2048-800x1067.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
-                "active": false
-              },
-              {
                 "tags": "Niesamowite",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/t6-1536x2048.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/t6-1536x2048-800x1067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t4-2000x2232.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t4-2000x2232-800x893.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1176,6 +1163,19 @@
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
                 "active": false
+              },
+              {
+                "tags": "Niesamowite",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/t8-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t8-1080x1080-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tutaj wstaw opis",
+                "active": true
               },
               {
                 "tags": "Animowane",
@@ -1292,7 +1292,33 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Niesamowite",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/t6-1536x2048.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t6-1536x2048-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tutaj wstaw opis",
+                "active": false
+              },
+              {
+                "tags": "Animowane",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/t5-1536x2048.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t5-1536x2048-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tutaj wstaw opis",
+                "active": false
               }
             ]
           }
