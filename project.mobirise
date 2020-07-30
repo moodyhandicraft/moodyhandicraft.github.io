@@ -1319,6 +1319,32 @@
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
                 "active": false
+              },
+              {
+                "tags": "Niesamowite",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/t21-2000x2943.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t21-2000x2943-800x1177.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tutaj wstaw opis",
+                "active": false
+              },
+              {
+                "tags": "Niesamowite",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/t22-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t22-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tutaj wstaw opis",
+                "active": false
               }
             ]
           }
